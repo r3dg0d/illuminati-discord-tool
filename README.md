@@ -14,7 +14,6 @@ Codename Illuminati is the ultimate AI and ML tool for discord.
 - Use some NLP (Natural Language Processing) for processing requests that the bot doesn't understand.
 - Code a textless text-to-speech model, that takes text from previous step, processes it, and creates a result. Natural Language Processing required. Look into blenderbot from facebook AI, and ParlAI's work.
 - Code a way for the bot to record each discord message, and put it in a .csv file
-- 
 
 # Notes
 Codename: Illuminati needs storage for video recordings, audio, text, and images. Over the long-course of use, these recordings could use something called: Big Data. I'd recommend making a home data server, having a lot of storage, or using an NAS (network attached storage). These could be pretty pricey depending on how much storage is needed for the ML, and other code for the software. However once the software is pitched and sold to some big discord servers, it could come out to pay for operating costs.
