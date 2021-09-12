@@ -23,10 +23,10 @@ For security and privacy purposes, cloud storage is not recommended. Local, Home
 
 # Resources
 
-Train an object detector: https://neptune.ai/blog/how-to-train-your-own-object-detector-using-tensorflow-object-detection-api
-Mozilla TTS: https://github.com/mozilla/TTS
-Play Discord Audio from URL: https://stackoverflow.com/questions/66115216/discord-py-play-audio-from-url
-Play Discord Audio from Local File: https://stackoverflow.com/questions/63036753/discord-py-bot-how-to-play-audio-from-local-files
-ParlAI library and documentation: https://ai.facebook.com/tools/parlai
-ParlAI Github: https://github.com/facebookresearch/ParlAI
-Blenderbot 2.0 Models: https://github.com/facebookresearch/ParlAI/blob/main/parlai/zoo/blenderbot2/model_card.md
+- Train an object detector: https://neptune.ai/blog/how-to-train-your-own-object-detector-using-tensorflow-object-detection-api
+- Mozilla TTS: https://github.com/mozilla/TTS
+- Play Discord Audio from URL: https://stackoverflow.com/questions/66115216/discord-py-play-audio-from-url
+- Play Discord Audio from Local File: https://stackoverflow.com/questions/63036753/discord-py-bot-how-to-play-audio-from-local-files
+- ParlAI library and documentation: https://ai.facebook.com/tools/parlai
+- ParlAI Github: https://github.com/facebookresearch/ParlAI
+- Blenderbot 2.0 Models: https://github.com/facebookresearch/ParlAI/blob/main/parlai/zoo/blenderbot2/model_card.md
