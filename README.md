@@ -4,7 +4,7 @@ Kinda like Apple's new tool they are implementing on iPhones, using hashes, but 
 
 Lets provide a safer space for people to chat. #ProjectIlluminati on twitter.
 
-#To-Do
+# To-Do
 - Code a discord bot template in python
 - Code a way to make discord bot join vc then record call
 - Code algorithm, if it detects nudity, Ban user instantly.
