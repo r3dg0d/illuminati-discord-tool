@@ -30,4 +30,3 @@ For security and privacy purposes, cloud storage is not recommended. Local, Home
 - Screen Record with openCV: https://www.tutorialexample.com/create-a-screen-recorder-using-python-opencv-opencv-tutorial/
 - Collect Discord Messages: https://stackoverflow.com/questions/63322284/discord-js-get-an-array-of-all-messages-in-a-channel
 - Record voice calls (WIP)
-- 
