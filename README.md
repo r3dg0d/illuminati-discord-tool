@@ -10,10 +10,9 @@ Codename Illuminati is the ultimate AI and ML tool for discord.
 - Create .wav for bot to say in vc when it joins stating that the call is recording for data-collection for use with AI. 
 - Add image based detection that detects Memes in discord, and responds with what it sees.
 - Add multiple micro-bots (Codename: Illuminati) that run on Large-Scale Storage solutions and record discord calls and video calls, with consent from the user(s).
-- Make a virtual assistant from scratch, and make a command for it to join a vc.
+- Make a virtual assistant from scratch, and make a command for it to join a vc. (Codename: SIVA)
 - Use some NLP (Natural Language Processing) for processing requests that the bot doesn't understand.
-- Code a textless text-to-speech model, that takes text from previous step, processes it, and creates a result. Natural Language Processing required. Look into blenderbot from facebook AI, and ParlAI's work.
-- Code a way for the bot to record each discord message, and put it in a .csv file
+- Code a way for the bot to record each discord message, and put it in a .csv file. Add start and stop command.
 
 # Notes
 Codename: Illuminati needs storage for video recordings, audio, text, and images. Over the long-course of use, these recordings could use something called: Big Data. I'd recommend making a home data server, having a lot of storage, or using an NAS (network attached storage). These could be pretty pricey depending on how much storage is needed for the ML, and other code for the software. However once the software is pitched and sold to some big discord servers, it could come out to pay for operating costs.
@@ -28,8 +27,7 @@ For security and privacy purposes, cloud storage is not recommended. Local, Home
 - Mozilla TTS: https://github.com/mozilla/TTS
 - Play Discord Audio from URL: https://stackoverflow.com/questions/66115216/discord-py-play-audio-from-url
 - Play Discord Audio from Local File: https://stackoverflow.com/questions/63036753/discord-py-bot-how-to-play-audio-from-local-files
-- ParlAI library and documentation: https://ai.facebook.com/tools/parlai
-- ParlAI Github: https://github.com/facebookresearch/ParlAI
-- Blenderbot 2.0 Models: https://github.com/facebookresearch/ParlAI/blob/main/parlai/zoo/blenderbot2/model_card.md
 - Screen Record with openCV: https://www.tutorialexample.com/create-a-screen-recorder-using-python-opencv-opencv-tutorial/
 - Collect Discord Messages: https://stackoverflow.com/questions/63322284/discord-js-get-an-array-of-all-messages-in-a-channel
+- Record voice calls (WIP)
+- 
