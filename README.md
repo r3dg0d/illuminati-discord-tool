@@ -1,11 +1,10 @@
 # illuminati-discord-tool
-Codename Illuminati is the ultimate AI and ML tool for discord.
+Codename Illuminati is a multipurpose discord bot 
 
 # To-Do (WIP)
-✔️ Code a discord bot template in python
-✔️ Code a voice-to-text model that decodes voices to text
+✔️ Code a discord bot template in python.
+✔️ Code a voice-to-text model that decodes voices to text.
 - Implement the .wav files from the AI into the discord vc.
-- Create a list of pre-determined results for certain responses. (i.e. basic calculations, weather regarding a location, etc.)
 - Code a way to make discord bot join vc then record call for data
 - Create .wav for bot to say in vc when it joins stating that the call is recording for data-collection for use with AI. 
 - Add image based detection that detects Memes in discord, and responds with what it sees.
