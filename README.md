@@ -1,5 +1,5 @@
 # illuminati-discord-tool
-Codename Illuminati is a multipurpose discord bot 
+Codename Illuminati is a multipurpose discord bot used for AI, ML, and data-collection.
 
 # To-Do (WIP)
 ✔️ Code a discord bot template in python.
@@ -8,6 +8,8 @@ Codename Illuminati is a multipurpose discord bot
 - Code a way to make discord bot join vc then record call for data
 - Create .wav for bot to say in vc when it joins stating that the call is recording for data-collection for use with AI. 
 - Add image based detection that detects Memes in discord, and responds with what it sees.
+- Add nudity-detection algorithm
+- Code a garbage collector that collects all messages in a specified channel and records it to a .CSV
 - Add multiple micro-bots (Codename: Illuminati) that run on Large-Scale Storage solutions and record discord calls and video calls, with consent from the user(s).
 - Make a virtual assistant from scratch, and make a command for it to join a vc. (Codename: SIVA)
 - Use some NLP (Natural Language Processing) for processing requests that the bot doesn't understand.
