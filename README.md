@@ -20,7 +20,7 @@ Codename: Illuminati needs storage for video recordings, audio, text, and images
 
 Repl.it based on my knowledge doesn't allow npm to access the file system, so it is recommended to make an NAS to store all the data on for training.
 
-For security and privacy purposes, cloud storage is not recommended. Local, Home based storage is recommended, or a peer-to-peer option like filecoin is possible. Even then, peer-to-peer has security flaws such as reverse-engineering hardware identifiers on the hard disk, or SSD, unless it is stored as a hash, which makes it harder to bruteforce.
+For security and privacy purposes, cloud storage is not recommended. Local, Home based storage is recommended, as well as running on a peer-to-peer option like filecoin is possible.
 
 # Resources
 
