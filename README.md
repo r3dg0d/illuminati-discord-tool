@@ -2,13 +2,15 @@
 Codename Illuminati is a multipurpose discord bot used for AI, ML, and data-collection.
 
 # To-Do (WIP)
-✔️ Code a discord bot template in python.
-✔️ Code a voice-to-text model that decodes voices to text.
-- Implement the .wav files from the AI into the discord vc.
-- Code a way to make discord bot join vc then record call for data
+- Code a discord bot template in javascript or python.
+- Code a voice-to-text model that decodes voices to text.
+- Code a question-queue system, use NLP to create a response for wakeword.
+- Recognize Wakeword in Real-time.
+- Implement the .wav files from the TTS into the discord vc.
+- Code a way to make discord bot join vc then record call for data.
 - Create .wav for bot to say in vc when it joins stating that the call is recording for data-collection for use with AI. 
 - Add image based detection that detects Memes in discord, and responds with what it sees.
-- Add nudity-detection algorithm
+- Add nudity-detection algorithm.
 - Code a garbage collector that collects all messages in a specified channel and records it to a .CSV
 - Add multiple micro-bots (Codename: Illuminati) that run on Large-Scale Storage solutions and record discord calls and video calls, with consent from the user(s).
 - Make a virtual assistant from scratch, and make a command for it to join a vc. (Codename: SIVA)
@@ -17,10 +19,6 @@ Codename Illuminati is a multipurpose discord bot used for AI, ML, and data-coll
 
 # Notes
 Codename: Illuminati needs storage for video recordings, audio, text, and images. Over the long-course of use, these recordings could use something called: Big Data. I'd recommend making a home data server, having a lot of storage, or using an NAS (network attached storage). These could be pretty pricey depending on how much storage is needed for the ML, and other code for the software. However once the software is pitched and sold to some big discord servers, it could come out to pay for operating costs.
-
-Repl.it based on my knowledge doesn't allow npm to access the file system, so it is recommended to make an NAS to store all the data on for training.
-
-For security and privacy purposes, cloud storage is not recommended. Local, Home based storage is recommended, as well as running on a peer-to-peer option like filecoin is possible.
 
 # Resources
 
