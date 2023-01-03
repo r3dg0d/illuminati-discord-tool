@@ -3,21 +3,22 @@ Codename Illuminati is a multi-purpose discord bot used for AI, ML, and data-col
 
 # To-Do (WIP)
 - Code a discord bot template in node javascript with discord.js
+- Host locally cuz fuck VPS pricing
 - Code a voice-to-text model that decodes voices to text. Using voice data from discord voice chats.
-- Code a question-queue system, using commands and inputs, if the bot is in a voice channel, then it responds with random tts trained on discord users voice.
-- Recognize Wakeword in Real-time in voice channel
-- Speak the .wav files from the TTS into the discord vc
-- Code a way to make discord bot join vc then record call for data, then post the recording in a channel to download.
-- Create an audio file for bot to say it is in a voice channel when it joins stating that the call is recording for data-collection for use with AI. 
+- Code a question-queue system, using commands and inputs, if the bot is in a voice channel, then it responds with random tts trained on discord users voice. Use ChatGPT Or GPT-3 to talk, with uberduck.ai for tts.
+- Recognize Wakeword in Real-time in voice channel (WIP)
+- Speak the .wav files from the TTS-server into the discord vc (WIP)
+- Code a way to make discord bot join vc then record call for data, then post the recording in a channel to download. (message.send(channel_id));
+- Create an audio file for bot to say it is in a voice channel when it joins stating that the call is recording for data-collection for use with AI. (voice-human-captcha) 
 - Add image based detection that detects Memes in discord, and responds with what it sees. Like the explain bots on twitter.
-- Code a garbage collector that collects all messages in a specified channel and records it to a .CSV
-- Add multiple micro-bots (Codename: Illuminati) that run on Large-Scale Storage solutions and record discord calls and video calls, with consent from the user(s). These are real artificial intelligence tests to see if AI can pass the turing-test. Must be run with humans. We've seen what happens when AI is unsupervised, it's not good.
+- Code a garbage collector that collects all messages in a specified channel and records it to a .JSON Or .CSV file for data collection and ML Purposes.
+- Add multiple micro-bots (Codename: Illuminati) that run on Large-Scale Storage solutions and record discord calls and video calls, with consent from the user(s). These are real artificial intelligence tests to see if AI can pass the turing-test. Must be run with humans. We've seen what happens when AI is unsupervised, it's not good. So it would be fascinating to see an AI-Human conergence/singularity.
 - Make a virtual assistant from scratch, and make a command for it to join a vc. (Codename: SIVA)
-- Use some NLP (Natural Language Processing) for processing requests that the bot doesn't understand. Use LaMBDa or OpenAI's GPT-3, or even better 
+- Use some NLP (Natural Language Processing) for processing requests that the bot doesn't understand. Use LaMBDa or OpenAI's GPT-3, or even better, a discord-based NLP agent. 
 - Code a way for the bot to record each discord message, and put it in a .csv file. Add start and stop command.
 
 # Notes
-Codename: Illuminati needs storage for video recordings, audio, text, and images. Over the long-course of use, these recordings could use something called: Big Data. I'd recommend making a home data server, having a lot of storage, or using an NAS (network attached storage). These could be pretty pricey depending on how much storage is needed for the ML, and other code for the software. However once the software is pitched and sold to some big discord servers, it could come out to pay for operating costs.
+Codename: Illuminati needs storage for video recordings, audio, text, and images. Over the long-course of use, these recordings could use something called: Big Data. Like the singularity, think i-Robot. I'd recommend making a home data server, having a lot of storage, or using an NAS (network attached storage). These could be pretty pricey depending on how much storage is needed for the ML, and other code for the software. However once the software is pitched and sold to some big discord servers, it could come out to pay for operating costs.
 
 # Resources
 
